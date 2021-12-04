@@ -19,4 +19,19 @@
 .lis{
     list-style: none;
     font-family: 'Montserrat', sans-serif;
+    margin-top: 80px;
 }
+
+.lis li a{
+    font-size: 25px;
+    padding-top: 90px;
+}
+
+#por{
+    margin-top: 60px;   
+}
+
+#bri{
+    margin-top: 60px; 
+}
+
