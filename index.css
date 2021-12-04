@@ -53,3 +53,24 @@
     margin-left: 200px; 
 }
 
+.mimi{
+    text-align: center;
+    margin-left: 350px;
+    margin-top: -400px;
+}
+
+.mimi h1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mimi p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+#line{
+    text-decoration-line: line-through underline;
+    text-decoration-color: red;
+}
+
