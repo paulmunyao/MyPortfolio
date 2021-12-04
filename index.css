@@ -1,19 +1,30 @@
 *body{
     padding: 0px;
-    width: 100%;
     margin: 0px;
+    width: 100%;
     border: none;
 }
 
 .one{
     border: 2px solid red;
-    height: 700px;
+    height: 600px;
     width: 100%;
+}
+
+.picha{
+    background-image: url("images/apple.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    margin-top: -21px;
 }
 
 .log{
     font-family: 'Corinthia', cursive;
     font-weight: 900px;
+    color: blanchedalmond;
 }
 
 .lis{
