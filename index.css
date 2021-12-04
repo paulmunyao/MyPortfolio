@@ -4,3 +4,8 @@
     margin: 0px;
     border: none;
 }
+.one{
+    border: 2px solid red;
+    height: 700px;
+    width: 100%;
+}
