@@ -36,13 +36,20 @@
 .lis li a{
     font-size: 25px;
     padding-top: 90px;
+    color: white;
+}
+
+#abt{
+    margin-left: 200px;
 }
 
 #por{
-    margin-top: 60px;   
+    margin-top: 120px;  
+    margin-left: 250px; 
 }
 
 #bri{
-    margin-top: 60px; 
+    margin-top: 120px;
+    margin-left: 200px; 
 }
 
