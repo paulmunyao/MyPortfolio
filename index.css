@@ -121,8 +121,8 @@
 }
 
 .pamoja{
-    width: 180px;
-    height: 180px;
+    width: 190px;
+    height: 190px;
     background: #D79B00;
     margin-left: 150px;
     text-align: center;
@@ -133,6 +133,7 @@
 #pfl{
     color: white;
     font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
 }
 
 .pamoja:hover{
