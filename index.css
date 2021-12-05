@@ -3,11 +3,11 @@
     margin: 0px;
     width: 100%;
     border: none;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .one{
-    border: 2px solid red;
+    border: 2px solid white;
     height: 600px;
     width: 100%;
 }
@@ -89,7 +89,7 @@
 }
 
 .two{
-    border: 2px solid red;
+    border: 2px solid white;
     height: 600px;
     width: 100%;
     background-color: black;
@@ -192,7 +192,7 @@
 }
 
 .three{
-    border: 2px solid red;
+    border: 2px solid white;
     height: 950px;
     width: 100%;
     background-color: black;
