@@ -272,6 +272,10 @@
     transition-timing-function: linear;
   }
 
+  #beh:hover {
+    width: 200px;
+  }
+
   #ins{
     text-align: center;
     background-color: #D79B00;
@@ -282,6 +286,10 @@
     transition-timing-function: linear;
   }
 
+  #ins:hover {
+    width: 200px;
+  }
+
   #fac{
     text-align: center;
     background-color: #D79B00;
@@ -290,6 +298,10 @@
     transition-property: width;
     transition-duration: 2s;
     transition-timing-function: linear;
+  }
+
+  #fac:hover {
+    width: 200px;
   }
 
   .social li a{
