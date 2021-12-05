@@ -130,10 +130,13 @@
     transition: width 2s, height 4s;
 }
 
+.pamoja h2{
+    font-size: 20px;
+}
+
 #pfl{
     color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
 }
 
 .pamoja:hover{
