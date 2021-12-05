@@ -81,9 +81,10 @@ body{
 .mimi p{
     font-family: 'Montserrat', sans-serif;
     color: white;
+    animation-delay: 2s;
 }
 
-.line{
+#line{
     text-decoration-line: line-through underline;
     text-decoration-color: red;
 }
