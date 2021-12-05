@@ -187,7 +187,7 @@
     border: 2px solid red;
     height: 850px;
     width: 100%;
-    /* background-color: black; */
+    background-color: black;
 }
 
 .footer h3{
@@ -240,6 +240,14 @@
       margin-top: 50px;
   }
 
+  .rec h3{
+      color: white;
+  }
+
+  .footer{
+    color: white;
+  }
+
   .social{
     font-family: 'Montserrat', sans-serif;
     margin-left: 60px;
@@ -247,24 +255,9 @@
     list-style: none;
   }
 
-  #lin{
-      margin-bottom: -40px;
-      text-align: center;
-      background-color: #D79B00;
-      height: 20px;
-      width: 90px;
-      transition-property: width;
-      transition-duration: 2s;
-      transition-timing-function: linear;
-  }
-
-  #lin:hover {
-    width: 200px;
-  }
-
   #beh{
     text-align: center;
-    background-color: #D79B00;
+    background-color: transparent;
     height: 20px;
     width: 90px;
     transition-property: width;
@@ -272,13 +265,30 @@
     transition-timing-function: linear;
   }
 
+  #lin{
+    margin-bottom: -40px;
+    text-align: center;
+    margin-left: -3px;
+    background-color: transparent;
+    height: 20px;
+    width: 90px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+
+#lin:hover {
+  width: 200px;
+}
+
   #beh:hover {
     width: 200px;
   }
 
   #ins{
     text-align: center;
-    background-color: #D79B00;
+    margin-left: 5px;
+    background-color: transparent;
     height: 20px;
     width: 90px;
     transition-property: width;
@@ -292,7 +302,8 @@
 
   #fac{
     text-align: center;
-    background-color: #D79B00;
+    margin-left: 3px;
+    background-color: transparent;
     height: 20px;
     width: 90px;
     transition-property: width;
