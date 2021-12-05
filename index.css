@@ -138,28 +138,49 @@
 
 @keyframes bounce{
     0%{
-        -webkit-transform: translateY(0);
+        transform: translateY(0);
     }
 
     20%{
-        -webkit-transform: translateY(0);
+        transform: translateY(0);
     }
 
     40%{
-        -webkit-transform: translateY(-30px);
+        transform: translateY(-30px);
     }
 
     60%{
-        -webkit-transform: translateY(-15px);
+        transform: translateY(-15px);
     }
 
     80%{
-        -webkit-transform: translateY(0);
+        transform: translateY(0);
     }
 
     100%{
-        -webkit-transform: translateY(0);
+        transform: translateY(0);
     }
+}
+
+#mor{
+    margin-left: 520px;
+    margin-top: 35px;
+    height:100px;
+    width: 100px;
+    background-color: red;  
+    border-radius: 50%;
+    text-align: center;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    color: white;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#mor:hover{
+    cursor: pointer;
+    animation-name: bounce;
 }
 
   
