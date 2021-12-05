@@ -185,7 +185,7 @@
 
 .three{
     border: 2px solid red;
-    height: 800px;
+    height: 1000px;
     width: 100%;
     /* background-color: black; */
 }
@@ -234,6 +234,35 @@
     color: grey;
   }
 
-  
+  .rec{
+      font-family: 'Montserrat', sans-serif;
+      margin-left: 100px;
+      margin-top: 50px;
+  }
+
+  .social{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 60px;
+    margin-top: 10px;
+    list-style: none;
+  }
+
+  #lin{
+      margin-bottom: -40px;
+      padding-top: 10px;
+      text-align: center;
+      background-color: #D79B00;
+      height: 40px;
+      width: 80px;
+  }
+
+  #beh{
+    padding-top: 10px;
+    text-align: center;
+    background-color: #D79B00;
+    height: 40px;
+    width: 80px;
+  }
+
 
 
