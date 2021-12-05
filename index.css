@@ -88,10 +88,17 @@
 
 #foil{
     background-color: white;
-    border: 60px;
+    border-radius: 60px;
     height: 30px;
     width: 110px;
     margin-left: 510px;
     padding-top: 10px;
+    animation-name: kazi;
+    animation-duration: 5s;
+}
+
+@keyframes kazi {
+    from {background-color: white;}
+    to {background-color: #D79B00;}
 }
 
