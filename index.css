@@ -136,7 +136,7 @@
     display: inline-flex;
 }
 
-/* @keyframes bounce{
+@keyframes bounce{
     0%{
         transform: translateY(0);
     }
@@ -160,7 +160,7 @@
     100%{
         transform: translateY(0);
     }
-} */
+}
 
 #mor{
     margin-left: 520px;
