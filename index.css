@@ -116,6 +116,18 @@
     to {top: 250px;}
 }
 
+.pamoja{
+    width: 200px;
+    height: 150px;
+    background: red;
+    margin-left: 150px;
+}
+
+
+.lio{
+    display: inline-flex;
+}
+
   
 
 
