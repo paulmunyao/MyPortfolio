@@ -117,12 +117,19 @@
 }
 
 .pamoja{
-    width: 200px;
+    width: 180px;
     height: 150px;
-    background: red;
+    background: #D79B00;
     margin-left: 150px;
+    text-align: center;
+    margin-top: 70px;
+    transition: width 2s, height 4s;
 }
 
+.pamoja:hover{
+    width: 300px;
+  height: 200px;
+}
 
 .lio{
     display: inline-flex;
