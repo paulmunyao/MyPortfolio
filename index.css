@@ -136,7 +136,7 @@
     display: inline-flex;
 }
 
-@keyframes bounce{
+/* @keyframes bounce{
     0%{
         transform: translateY(0);
     }
@@ -160,21 +160,21 @@
     100%{
         transform: translateY(0);
     }
-}
+} */
 
 #mor{
     margin-left: 520px;
     margin-top: 35px;
     height:100px;
     width: 100px;
-    background-color: red;  
+    background-color: #D79B00;  
     border-radius: 50%;
     text-align: center;
     animation-duration: 1s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
     color: white;
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Montserrat', sans-serif;
 }
 
