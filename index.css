@@ -93,12 +93,14 @@
     width: 110px;
     margin-left: 510px;
     padding-top: 10px;
+    position: relative;
     animation-name: kazi;
     animation-duration: 5s;
+    animation-fill-mode: backwards;
 }
 
 @keyframes kazi {
-    from {background-color: white;}
-    to {background-color: #D79B00;}
+    from {top: 10px;background-color: #D79B00;}
+    to {top: 250px;}
 }
 
