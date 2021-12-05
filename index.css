@@ -136,6 +136,32 @@
     display: inline-flex;
 }
 
+@keyframes bounce{
+    0%{
+        -webkit-transform: translateY(0);
+    }
+
+    20%{
+        -webkit-transform: translateY(0);
+    }
+
+    40%{
+        -webkit-transform: translateY(-30px);
+    }
+
+    60%{
+        -webkit-transform: translateY(-15px);
+    }
+
+    80%{
+        -webkit-transform: translateY(0);
+    }
+
+    100%{
+        -webkit-transform: translateY(0);
+    }
+}
+
   
 
 
