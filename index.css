@@ -267,6 +267,9 @@
     background-color: #D79B00;
     height: 20px;
     width: 90px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
   }
 
   #ins{
@@ -274,6 +277,9 @@
     background-color: #D79B00;
     height: 20px;
     width: 90px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
   }
 
   #fac{
@@ -281,6 +287,9 @@
     background-color: #D79B00;
     height: 20px;
     width: 90px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
   }
 
   .social li a{
