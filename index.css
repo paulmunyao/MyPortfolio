@@ -59,12 +59,9 @@
     position: relative;
 }
 
-.mimi{@keyframes mymove {
-    from {left: 0px;}
-    to {left: 300px;}
-  }
+.mimi{
     text-align: center;
-    margin-left: 350px;
+    margin-left: 500px;
     margin-top: -400px;
 }
 
