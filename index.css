@@ -89,7 +89,7 @@
     border: 2px solid red;
     height: 600px;
     width: 100%;
-    background-image: linear-gradient(to bottom,black,white);
+    background-color: black;
 }
 
 .par{
