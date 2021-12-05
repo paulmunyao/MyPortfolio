@@ -223,6 +223,17 @@
     margin-left: 100px;
   }
 
+  .ujumbe {
+    height: 140px;
+    width: 670px;
+    margin-top: 25px;
+    background-color: #f9f6f2;
+    border: none;
+    justify-content: initial;
+    padding: 0px;
+    color: grey;
+  }
+
   
 
 
