@@ -59,6 +59,13 @@
     position: relative;
 }
 
+#mun {animation-timing-function: brief me;}
+
+@keyframes mymove {
+    from {left: 10px;}
+    to {left: 150px;}
+  }
+
 .mimi{
     text-align: center;
     margin-left: 500px;
@@ -111,25 +118,6 @@
     to {top: 250px;}
 }
 
-#mun {animation-timing-function: About me;}
-
-@keyframes mymove {
-    from {left: 10px;}
-    to {left: 150px;}
-  }
-
-  #mun {animation-timing-function: Portfolio;}
-
-@keyframes mymove {
-    from {left: 10px;}
-    to {left: 150px;}
-  }
-
-  #mun {animation-timing-function: brief me;}
-
-@keyframes mymove {
-    from {left: 10px;}
-    to {left: 150px;}
-  }
+  
 
 
