@@ -224,9 +224,9 @@
   }
 
   .ujumbe {
-    height: 140px;
-    width: 670px;
-    margin-top: 25px;
+    /* height: 140px;
+    width: 670px; */
+    margin-top: 90px;
     background-color: #f9f6f2;
     border: none;
     justify-content: initial;
