@@ -1,9 +1,9 @@
-body{
+*body{
     padding: 0px;
     margin: 0px;
     width: 100%;
     border: none;
-    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .one{
@@ -19,10 +19,10 @@ body{
     background-size: cover;
     height: 600px;
     width: 100%;
-    margin-top: -21px;
+    margin-top: -13px;
 }
 
-.log{
+.log h1{
     font-family: 'Corinthia', cursive;
     font-weight: 900px;
     color: blanchedalmond;
@@ -71,17 +71,16 @@ body{
     margin-top: -400px;
 }
 
-
 .mimi h1{
     color: white;
     font-family: 'Montserrat', sans-serif;
-    animation-delay: 2s;
+    animation-delay: 1s;
 }
 
 .mimi p{
     font-family: 'Montserrat', sans-serif;
     color: white;
-    animation-delay: 2s;
+    animation-delay: 1s;
 }
 
 #line{
@@ -194,7 +193,7 @@ body{
 
 .three{
     border: 2px solid red;
-    height: 850px;
+    height: 950px;
     width: 100%;
     background-color: black;
 }
