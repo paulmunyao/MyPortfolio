@@ -59,8 +59,6 @@
     position: relative;
 }
 
-#mun {animation-timing-function: brief me;}
-
 @keyframes mymove {
     from {left: 10px;}
     to {left: 150px;}
