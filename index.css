@@ -145,9 +145,9 @@
         transform: translateY(0);
     }
 
-    /* 40%{
+    40%{
         transform: translateY(-30px);
-    } */
+    }
 
     60%{
         transform: translateY(-15px);
@@ -181,6 +181,17 @@
 #mor:hover{
     cursor: pointer;
     animation-name: bounce;
+}
+
+.three{
+    border: 2px solid red;
+    height: 600px;
+    width: 100%;
+    /* background-color: black; */
+}
+
+.footer h3{
+    text-align: center;
 }
 
   
